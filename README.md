@@ -4,9 +4,11 @@ Our Laplacian energy-based segmentation method (H-DIBCO2018-HBUT) achieved the B
 
 **H-DIBCO2018-HBUT:** *Wei XIONG, Zijie XIONG, Xiuhong JIA, Min LI*
 
-> We first perform the morphological bottom-hat transform to compensate the document background with a disk-shaped structuring element, the size of which is determined by the stroke width transform (SWT)[3]. We then apply the Howe’s binarization method[4] on the compensated document images to further segment the foreground and background pixels. Finally, we carry out the image post-processing to produce better results. If the code helps with your research, please cite the following paper:
+> We first perform the morphological bottom-hat transform to compensate the document background with a disk-shaped structuring element, the size of which is determined by the stroke width transform (SWT)[3]. We then apply the Howe’s binarization method[4] on the compensated document images to further segment the foreground and background pixels. Finally, we carry out the image post-processing to produce better results. **If the code helps with your research, please cite the following papers:**
 > 
 > Xiong, W., Jia, X., Xu, J., Xiong, Z., Liu, M., Wang, J.: Historical document image binarization using background estimation and energy minimization. In: 24th International Conference on Pattern Recognition (ICPR 2018), pp. 3716-3721. Beijing, CHINA (2018). DOI: 10.1109/icpr.2018.8546099
+> 
+> Xiong, W., Zhou, L., Yue, L., Li L., Wang S.: An enhanced binarization framework for degraded historical document images. EURASIP Journal on Image and Video Processing. 2021, 13 (2021). DOI: 10.1186/s13640-021-00556-4
 
 References
 
