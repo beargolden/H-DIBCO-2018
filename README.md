@@ -2,9 +2,13 @@
 
 ## News Update:
 
-- 2025/09: Our paper, entitled **An enhanced binarization framework for degraded historical document images**, has been selected as the "**Best Paper Award 2025**" for the Journal **_EURASIP Journal on Image and Video Processing_** (JIVP).
+- 2025/10: The European Association for Signal Processing (EURASIP) has updated the “Best Paper Awards” section on its official website. Please click [here](https://eurasip.org/best-paper-awards/).
 
 ![2025_EURASIP_Best_Paper_Award](./assets/2025_EURASIP_Best_Paper_Award.png "2025_EURASIP_Best_Paper_Award")
+
+- 2025/09: Our paper, entitled **An enhanced binarization framework for degraded historical document images**, has been selected as the "**Best Paper Award 2025**" for the Journal **_EURASIP Journal on Image and Video Processing_** (JIVP).
+
+![2025_EURASIP_Best_Paper_Award_Certificate](./assets/2025_EURASIP_Best_Paper_Award_Certificate.png "2025_EURASIP_Best_Paper_Award_Certificate")
 
 Our Laplacian energy-based segmentation method (H-DIBCO2018-HBUT) achieved the Best performance in **ICFHR 2018 competition on handwritten document image binarization (H-DIBCO 2018)** [1], and the 2<sup>nd</sup> Best performance in _Challenge A_ of **ICFHR 2018 competition on document image analysis tasks for Southeast Asian palm leaf manuscripts** [2].
 
