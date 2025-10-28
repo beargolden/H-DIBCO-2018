@@ -6,7 +6,7 @@
 
 ![2025_EURASIP_Best_Paper_Award](./assets/2025_EURASIP_Best_Paper_Award.png "2025_EURASIP_Best_Paper_Award")
 
-- 2025/09: Our paper, entitled **An enhanced binarization framework for degraded historical document images**, has been selected as the "**Best Paper Award 2025**" for the Journal **_EURASIP Journal on Image and Video Processing_** (JIVP).
+- 2025/09: Our paper entitled **An enhanced binarization framework for degraded historical document images** has been selected as the "**Best Paper Award 2025**" by the **_EURASIP Journal on Image and Video Processing_** (JIVP).
 
 ![2025_EURASIP_Best_Paper_Award_Certificate](./assets/2025_EURASIP_Best_Paper_Award_Certificate.png "2025_EURASIP_Best_Paper_Award_Certificate")
 
