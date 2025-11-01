@@ -10,7 +10,7 @@
 
 ![2025_EURASIP_Best_Paper_Award_Certificate](./assets/2025_EURASIP_Best_Paper_Award_Certificate.png "2025_EURASIP_Best_Paper_Award_Certificate")
 
-Our Laplacian energy-based segmentation method (H-DIBCO2018-HBUT) achieved the Best performance in **ICFHR 2018 competition on handwritten document image binarization (H-DIBCO 2018)** [1], and the 2<sup>nd</sup> Best performance in _Challenge A_ of **ICFHR 2018 competition on document image analysis tasks for Southeast Asian palm leaf manuscripts** [2].
+- 2018/08: Our Laplacian energy-based segmentation method (H-DIBCO2018-HBUT) achieved the Best performance in **ICFHR 2018 competition on handwritten document image binarization (H-DIBCO 2018)** [1], and the 2<sup>nd</sup> Best performance in _Challenge A_ of **ICFHR 2018 competition on document image analysis tasks for Southeast Asian palm leaf manuscripts** [2].
 
 **H-DIBCO2018-HBUT:** _Wei XIONG, Zijie XIONG, Xiuhong JIA, Min LI_
 
